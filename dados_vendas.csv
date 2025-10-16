@@ -1,0 +1,201 @@
+ID do Pedido,Data,Produto,Categoria,Quantidade,Preço Unitário,Total,Cidade,Estado,Vendedor
+1,2023-12-12,Cadeira,Móveis,4,2097.39,8389.56,Brasília,DF,Carlos
+2,2023-07-02,Caneta,Educação,3,761.2,2283.6,Brasília,DF,Gustavo
+3,2023-01-09,Liquidificador,Eletrodomésticos,1,489.39,489.39,Rio de Janeiro,RJ,Eduardo
+4,2023-02-05,Smartphone,Eletrônicos,4,3696.12,14784.48,Salvador,BA,Bruno
+5,2023-04-19,Notebook,Eletrônicos,9,4599.64,41396.76,Salvador,BA,Ana
+6,2023-06-23,Smartphone,Eletrônicos,3,2828.73,8486.19,Curitiba,PR,Eduardo
+7,2023-06-20,Camiseta,Vestuário,4,4834.81,19339.24,Brasília,DF,Helena
+8,2023-09-07,Geladeira,Eletrodomésticos,1,2556.2,2556.2,Fortaleza,CE,Eduardo
+9,2023-06-04,Cadeira,Móveis,9,2911.28,26201.52,Salvador,BA,Helena
+10,2023-09-26,Livro,Educação,4,3375.39,13501.56,Fortaleza,CE,Bruno
+11,2023-09-02,Cadeira,Móveis,8,3928.56,31428.48,São Paulo,SP,Helena
+12,2023-04-10,Tênis,Vestuário,8,813.29,6506.32,Brasília,DF,Gustavo
+13,2023-06-28,Tênis,Vestuário,6,3769.28,22615.68,Manaus,AM,Helena
+14,2023-09-06,Camiseta,Vestuário,2,293.11,586.22,Rio de Janeiro,RJ,Helena
+15,2023-09-02,Tênis,Vestuário,5,4989.36,24946.8,Fortaleza,CE,Daniela
+16,2023-10-08,Liquidificador,Eletrodomésticos,10,556.49,5564.9,Fortaleza,CE,Gustavo
+17,2023-05-15,Tênis,Vestuário,7,2702.06,18914.42,Curitiba,PR,Daniela
+18,2023-10-19,Camiseta,Vestuário,10,1244.15,12441.5,São Paulo,SP,Daniela
+19,2023-08-28,Mesa,Móveis,5,2607.15,13035.75,Rio de Janeiro,RJ,Fernanda
+20,2023-08-24,Smartphone,Eletrônicos,3,3480.72,10442.16,Curitiba,PR,Helena
+21,2023-07-25,Liquidificador,Eletrodomésticos,4,743.17,2972.68,Recife,PE,Daniela
+22,2023-12-14,Cadeira,Móveis,8,4892.6,39140.8,Fortaleza,CE,Ana
+23,2023-06-12,Geladeira,Eletrodomésticos,3,1327.23,3981.69,Fortaleza,CE,Ana
+24,2023-12-09,Caneta,Educação,10,3864.15,38641.5,Belo Horizonte,MG,Daniela
+25,2023-08-15,Livro,Educação,10,1845.72,18457.2,Fortaleza,CE,Bruno
+26,2023-07-31,Livro,Educação,1,1661.36,1661.36,Curitiba,PR,Carlos
+27,2023-12-15,Smartphone,Eletrônicos,7,4146.81,29027.67,São Paulo,SP,Ana
+28,2023-01-28,Notebook,Eletrônicos,7,4661.84,32632.88,Curitiba,PR,Carlos
+29,2023-05-09,Geladeira,Eletrodomésticos,1,3860.95,3860.95,Recife,PE,Bruno
+30,2023-12-02,Camiseta,Vestuário,3,1253.81,3761.43,Porto Alegre,RS,Ana
+31,2023-03-19,Mesa,Móveis,7,3182.13,22274.91,Rio de Janeiro,RJ,Bruno
+32,2023-06-05,Camiseta,Vestuário,6,578.9,3473.4,Salvador,BA,Gustavo
+33,2023-03-16,Cadeira,Móveis,7,638.86,4472.02,Brasília,DF,Gustavo
+34,2023-01-01,Notebook,Eletrônicos,7,661.78,4632.46,Belo Horizonte,MG,Bruno
+35,2023-07-30,Caneta,Educação,9,4444.52,40000.68,Belo Horizonte,MG,Gustavo
+36,2023-10-07,Caneta,Educação,3,1780.26,5340.78,Recife,PE,Eduardo
+37,2023-05-30,Livro,Educação,9,1438.68,12948.12,Salvador,BA,Daniela
+38,2023-01-04,Smartphone,Eletrônicos,9,2465.09,22185.81,Salvador,BA,Fernanda
+39,2023-07-12,Cadeira,Móveis,4,4633.2,18532.8,Fortaleza,CE,Carlos
+40,2023-10-28,Geladeira,Eletrodomésticos,9,1893.19,17038.71,Salvador,BA,Fernanda
+41,2023-10-10,Notebook,Eletrônicos,6,2152.87,12917.22,Rio de Janeiro,RJ,Carlos
+42,2023-01-25,Cadeira,Móveis,1,3894.51,3894.51,Fortaleza,CE,Eduardo
+43,2023-12-10,Cadeira,Móveis,1,1599.54,1599.54,Rio de Janeiro,RJ,Bruno
+44,2023-01-31,Smartphone,Eletrônicos,4,3144.36,12577.44,Fortaleza,CE,Bruno
+45,2023-03-17,Cadeira,Móveis,8,4577.06,36616.48,Fortaleza,CE,Gustavo
+46,2023-10-27,Mesa,Móveis,3,684.51,2053.53,Curitiba,PR,Bruno
+47,2023-05-12,Livro,Educação,7,827.03,5789.21,Brasília,DF,Bruno
+48,2023-02-21,Geladeira,Eletrodomésticos,1,1501.51,1501.51,São Paulo,SP,Fernanda
+49,2023-11-26,Cadeira,Móveis,3,4945.5,14836.5,Belo Horizonte,MG,Bruno
+50,2023-09-30,Camiseta,Vestuário,7,4728.1,33096.7,Fortaleza,CE,Carlos
+51,2023-02-17,Caneta,Educação,1,4160.48,4160.48,Porto Alegre,RS,Daniela
+52,2023-05-24,Cadeira,Móveis,4,3101.18,12404.72,Fortaleza,CE,Carlos
+53,2023-08-08,Liquidificador,Eletrodomésticos,3,4657.17,13971.51,Porto Alegre,RS,Helena
+54,2023-07-01,Camiseta,Vestuário,4,1624.2,6496.8,Belo Horizonte,MG,Eduardo
+55,2023-01-16,Liquidificador,Eletrodomésticos,8,4302.99,34423.92,Salvador,BA,Ana
+56,2023-11-27,Smartphone,Eletrônicos,6,4533.29,27199.74,São Paulo,SP,Fernanda
+57,2023-04-19,Mesa,Móveis,8,798.98,6391.84,Manaus,AM,Helena
+58,2023-11-04,Camiseta,Vestuário,7,3411.96,23883.72,Curitiba,PR,Fernanda
+59,2023-11-24,Smartphone,Eletrônicos,2,427.73,855.46,Rio de Janeiro,RJ,Bruno
+60,2023-06-06,Smartphone,Eletrônicos,3,3210.79,9632.37,Fortaleza,CE,Ana
+61,2023-06-07,Liquidificador,Eletrodomésticos,6,1857.68,11146.08,Porto Alegre,RS,Bruno
+62,2023-09-28,Smartphone,Eletrônicos,6,3158.16,18948.96,Brasília,DF,Daniela
+63,2023-10-25,Mesa,Móveis,7,609.43,4266.01,Salvador,BA,Bruno
+64,2023-03-05,Tênis,Vestuário,9,2625.62,23630.58,Curitiba,PR,Carlos
+65,2023-10-07,Camiseta,Vestuário,9,4362.01,39258.09,Brasília,DF,Daniela
+66,2023-12-03,Camiseta,Vestuário,1,525.59,525.59,Manaus,AM,Helena
+67,2023-09-20,Camiseta,Vestuário,10,3807.99,38079.9,Manaus,AM,Helena
+68,2023-06-27,Liquidificador,Eletrodomésticos,1,2633.44,2633.44,Curitiba,PR,Fernanda
+69,2023-06-12,Notebook,Eletrônicos,2,665.52,1331.04,Salvador,BA,Fernanda
+70,2023-09-17,Camiseta,Vestuário,4,3573.15,14292.6,Rio de Janeiro,RJ,Gustavo
+71,2023-05-28,Caneta,Educação,3,2554.99,7664.97,Porto Alegre,RS,Bruno
+72,2023-08-30,Smartphone,Eletrônicos,5,3157.0,15785.0,Salvador,BA,Helena
+73,2023-02-25,Livro,Educação,2,3041.68,6083.36,Recife,PE,Bruno
+74,2023-07-14,Smartphone,Eletrônicos,7,2299.94,16099.58,Curitiba,PR,Ana
+75,2023-10-20,Tênis,Vestuário,3,1014.74,3044.22,Recife,PE,Carlos
+76,2023-07-12,Livro,Educação,5,2993.62,14968.1,Fortaleza,CE,Carlos
+77,2023-04-04,Smartphone,Eletrônicos,1,2422.49,2422.49,Porto Alegre,RS,Bruno
+78,2023-11-14,Cadeira,Móveis,3,4994.12,14982.36,Curitiba,PR,Fernanda
+79,2023-11-20,Caneta,Educação,9,3169.61,28526.49,Brasília,DF,Ana
+80,2023-12-30,Tênis,Vestuário,9,4599.59,41396.31,Porto Alegre,RS,Bruno
+81,2023-10-21,Livro,Educação,7,2382.7,16678.9,Brasília,DF,Helena
+82,2023-12-04,Geladeira,Eletrodomésticos,2,1571.44,3142.88,Salvador,BA,Carlos
+83,2023-06-20,Mesa,Móveis,4,3833.36,15333.44,Porto Alegre,RS,Eduardo
+84,2023-04-22,Cadeira,Móveis,1,1908.49,1908.49,Brasília,DF,Daniela
+85,2023-11-26,Caneta,Educação,6,1035.6,6213.6,São Paulo,SP,Helena
+86,2023-08-15,Tênis,Vestuário,6,4160.33,24961.98,Manaus,AM,Gustavo
+87,2023-01-11,Geladeira,Eletrodomésticos,10,3644.08,36440.8,Manaus,AM,Fernanda
+88,2023-11-06,Geladeira,Eletrodomésticos,4,3559.92,14239.68,Porto Alegre,RS,Helena
+89,2023-05-07,Caneta,Educação,5,4674.26,23371.3,Recife,PE,Daniela
+90,2023-08-24,Liquidificador,Eletrodomésticos,1,2434.54,2434.54,Fortaleza,CE,Daniela
+91,2023-01-11,Camiseta,Vestuário,6,2174.44,13046.64,Recife,PE,Daniela
+92,2023-12-31,Cadeira,Móveis,7,4257.58,29803.06,Porto Alegre,RS,Bruno
+93,2023-03-30,Tênis,Vestuário,3,4617.29,13851.87,Belo Horizonte,MG,Gustavo
+94,2023-01-27,Livro,Educação,5,2593.42,12967.1,Recife,PE,Daniela
+95,2023-02-18,Notebook,Eletrônicos,10,2173.34,21733.4,Rio de Janeiro,RJ,Ana
+96,2023-10-18,Mesa,Móveis,7,4178.12,29246.84,Belo Horizonte,MG,Eduardo
+97,2023-09-10,Camiseta,Vestuário,7,3032.44,21227.08,Salvador,BA,Ana
+98,2023-02-15,Geladeira,Eletrodomésticos,7,4630.3,32412.1,Belo Horizonte,MG,Bruno
+99,2023-11-18,Notebook,Eletrônicos,3,2211.95,6635.85,Fortaleza,CE,Helena
+100,2023-11-20,Mesa,Móveis,8,1065.46,8523.68,Belo Horizonte,MG,Daniela
+101,2023-03-27,Camiseta,Vestuário,10,4227.58,42275.8,Belo Horizonte,MG,Daniela
+102,2023-12-08,Caneta,Educação,10,1581.16,15811.6,Brasília,DF,Gustavo
+103,2023-11-25,Camiseta,Vestuário,9,3152.92,28376.28,Curitiba,PR,Fernanda
+104,2023-04-26,Caneta,Educação,3,4460.4,13381.2,Fortaleza,CE,Fernanda
+105,2023-09-13,Camiseta,Vestuário,7,3024.43,21171.01,Curitiba,PR,Helena
+106,2023-08-07,Notebook,Eletrônicos,3,928.48,2785.44,Porto Alegre,RS,Eduardo
+107,2023-11-22,Cadeira,Móveis,10,2343.66,23436.6,Porto Alegre,RS,Eduardo
+108,2023-10-05,Camiseta,Vestuário,1,3927.27,3927.27,Belo Horizonte,MG,Eduardo
+109,2023-10-21,Geladeira,Eletrodomésticos,9,3555.24,31997.16,Porto Alegre,RS,Fernanda
+110,2023-09-13,Smartphone,Eletrônicos,2,3006.67,6013.34,São Paulo,SP,Helena
+111,2023-01-15,Smartphone,Eletrônicos,7,251.84,1762.88,Brasília,DF,Eduardo
+112,2023-01-31,Caneta,Educação,9,1012.41,9111.69,Rio de Janeiro,RJ,Gustavo
+113,2023-03-11,Notebook,Eletrônicos,6,619.68,3718.08,Manaus,AM,Gustavo
+114,2023-03-31,Livro,Educação,1,4212.45,4212.45,Belo Horizonte,MG,Bruno
+115,2023-10-23,Liquidificador,Eletrodomésticos,8,1373.92,10991.36,Rio de Janeiro,RJ,Eduardo
+116,2023-10-20,Smartphone,Eletrônicos,3,2744.06,8232.18,Porto Alegre,RS,Eduardo
+117,2023-02-20,Notebook,Eletrônicos,8,929.9,7439.2,Porto Alegre,RS,Bruno
+118,2023-04-24,Liquidificador,Eletrodomésticos,10,4928.81,49288.1,Belo Horizonte,MG,Bruno
+119,2023-03-21,Livro,Educação,2,1721.97,3443.94,Salvador,BA,Helena
+120,2023-10-06,Caneta,Educação,7,3893.27,27252.89,Curitiba,PR,Fernanda
+121,2023-03-04,Tênis,Vestuário,9,4878.93,43910.37,São Paulo,SP,Carlos
+122,2023-07-09,Mesa,Móveis,9,3331.92,29987.28,Fortaleza,CE,Bruno
+123,2023-12-06,Caneta,Educação,10,4706.31,47063.1,Recife,PE,Fernanda
+124,2023-11-19,Mesa,Móveis,8,4786.77,38294.16,Fortaleza,CE,Carlos
+125,2023-04-12,Tênis,Vestuário,3,239.55,718.65,Rio de Janeiro,RJ,Gustavo
+126,2023-09-22,Cadeira,Móveis,8,485.71,3885.68,Porto Alegre,RS,Bruno
+127,2023-10-26,Camiseta,Vestuário,2,3306.86,6613.72,Rio de Janeiro,RJ,Daniela
+128,2023-07-05,Caneta,Educação,8,729.28,5834.24,Fortaleza,CE,Gustavo
+129,2023-03-02,Cadeira,Móveis,8,1096.54,8772.32,São Paulo,SP,Ana
+130,2023-01-14,Camiseta,Vestuário,5,2597.15,12985.75,São Paulo,SP,Daniela
+131,2023-08-06,Notebook,Eletrônicos,7,2310.9,16176.3,Belo Horizonte,MG,Ana
+132,2023-05-06,Cadeira,Móveis,5,2303.9,11519.5,Porto Alegre,RS,Ana
+133,2023-05-26,Liquidificador,Eletrodomésticos,10,882.07,8820.7,Curitiba,PR,Daniela
+134,2023-08-26,Cadeira,Móveis,4,1528.67,6114.68,Belo Horizonte,MG,Gustavo
+135,2023-12-14,Cadeira,Móveis,7,958.59,6710.13,Brasília,DF,Gustavo
+136,2023-03-24,Caneta,Educação,1,4676.33,4676.33,Rio de Janeiro,RJ,Fernanda
+137,2023-04-19,Caneta,Educação,7,3663.29,25643.03,Salvador,BA,Eduardo
+138,2023-10-19,Notebook,Eletrônicos,8,1534.29,12274.32,Rio de Janeiro,RJ,Gustavo
+139,2023-09-20,Smartphone,Eletrônicos,1,1751.64,1751.64,Manaus,AM,Gustavo
+140,2023-12-03,Livro,Educação,2,4814.7,9629.4,Salvador,BA,Ana
+141,2023-05-31,Caneta,Educação,9,2896.9,26072.1,São Paulo,SP,Helena
+142,2023-06-14,Livro,Educação,4,3759.83,15039.32,Porto Alegre,RS,Ana
+143,2023-10-22,Cadeira,Móveis,9,1565.23,14087.07,Manaus,AM,Gustavo
+144,2023-02-25,Notebook,Eletrônicos,4,164.52,658.08,Curitiba,PR,Ana
+145,2023-01-14,Tênis,Vestuário,4,2662.48,10649.92,Porto Alegre,RS,Daniela
+146,2023-11-18,Tênis,Vestuário,2,3264.58,6529.16,Salvador,BA,Gustavo
+147,2023-11-16,Liquidificador,Eletrodomésticos,9,1572.16,14149.44,Salvador,BA,Bruno
+148,2023-03-23,Camiseta,Vestuário,5,3392.5,16962.5,Belo Horizonte,MG,Eduardo
+149,2023-02-02,Geladeira,Eletrodomésticos,4,2790.58,11162.32,Curitiba,PR,Eduardo
+150,2023-05-31,Notebook,Eletrônicos,4,1101.0,4404.0,Fortaleza,CE,Eduardo
+151,2023-03-19,Smartphone,Eletrônicos,5,949.6,4748.0,Manaus,AM,Ana
+152,2023-07-01,Liquidificador,Eletrodomésticos,2,1425.42,2850.84,Porto Alegre,RS,Helena
+153,2023-01-31,Geladeira,Eletrodomésticos,7,3228.1,22596.7,Recife,PE,Helena
+154,2023-10-03,Livro,Educação,3,2089.14,6267.42,Manaus,AM,Gustavo
+155,2023-03-19,Geladeira,Eletrodomésticos,2,3373.26,6746.52,Salvador,BA,Fernanda
+156,2023-10-06,Cadeira,Móveis,6,4445.85,26675.1,Porto Alegre,RS,Fernanda
+157,2023-07-15,Smartphone,Eletrônicos,4,3423.37,13693.48,Manaus,AM,Daniela
+158,2023-02-28,Liquidificador,Eletrodomésticos,10,1703.29,17032.9,Manaus,AM,Gustavo
+159,2023-11-04,Caneta,Educação,9,3624.71,32622.39,Porto Alegre,RS,Carlos
+160,2023-11-03,Notebook,Eletrônicos,1,228.58,228.58,Salvador,BA,Fernanda
+161,2023-08-16,Tênis,Vestuário,1,3435.43,3435.43,Fortaleza,CE,Eduardo
+162,2023-07-15,Geladeira,Eletrodomésticos,7,3229.63,22607.41,São Paulo,SP,Ana
+163,2023-09-28,Livro,Educação,9,1848.18,16633.62,Salvador,BA,Ana
+164,2023-07-10,Notebook,Eletrônicos,4,58.84,235.36,Porto Alegre,RS,Fernanda
+165,2023-06-10,Livro,Educação,4,2022.9,8091.6,Recife,PE,Eduardo
+166,2023-11-22,Cadeira,Móveis,2,2972.96,5945.92,Brasília,DF,Bruno
+167,2023-11-17,Caneta,Educação,3,3415.38,10246.14,Salvador,BA,Daniela
+168,2023-07-08,Notebook,Eletrônicos,10,1286.09,12860.9,Curitiba,PR,Gustavo
+169,2023-10-27,Geladeira,Eletrodomésticos,10,3551.43,35514.3,Manaus,AM,Eduardo
+170,2023-11-10,Mesa,Móveis,9,3472.04,31248.36,Salvador,BA,Gustavo
+171,2023-06-17,Notebook,Eletrônicos,9,1184.82,10663.38,Belo Horizonte,MG,Ana
+172,2023-01-28,Livro,Educação,10,3849.07,38490.7,Salvador,BA,Helena
+173,2023-03-17,Mesa,Móveis,9,3031.87,27286.83,Recife,PE,Ana
+174,2023-06-15,Cadeira,Móveis,4,781.87,3127.48,São Paulo,SP,Daniela
+175,2023-04-21,Notebook,Eletrônicos,9,522.83,4705.47,Manaus,AM,Eduardo
+176,2023-09-18,Geladeira,Eletrodomésticos,1,3333.62,3333.62,Manaus,AM,Eduardo
+177,2023-11-18,Notebook,Eletrônicos,4,1670.58,6682.32,Porto Alegre,RS,Carlos
+178,2023-04-11,Tênis,Vestuário,9,3029.25,27263.25,Brasília,DF,Carlos
+179,2023-10-05,Liquidificador,Eletrodomésticos,1,1398.42,1398.42,Rio de Janeiro,RJ,Carlos
+180,2023-06-11,Tênis,Vestuário,8,457.22,3657.76,Salvador,BA,Fernanda
+181,2023-10-21,Liquidificador,Eletrodomésticos,3,1031.35,3094.05,Fortaleza,CE,Fernanda
+182,2023-01-07,Tênis,Vestuário,2,3869.35,7738.7,Fortaleza,CE,Ana
+183,2023-09-30,Tênis,Vestuário,2,119.55,239.1,Salvador,BA,Gustavo
+184,2023-09-17,Smartphone,Eletrônicos,4,3506.38,14025.52,Belo Horizonte,MG,Bruno
+185,2023-06-07,Caneta,Educação,10,3190.44,31904.4,Belo Horizonte,MG,Eduardo
+186,2023-03-12,Camiseta,Vestuário,3,3046.61,9139.83,Manaus,AM,Carlos
+187,2023-01-29,Geladeira,Eletrodomésticos,2,4340.3,8680.6,São Paulo,SP,Helena
+188,2023-03-10,Notebook,Eletrônicos,5,3408.55,17042.75,Rio de Janeiro,RJ,Eduardo
+189,2023-01-27,Geladeira,Eletrodomésticos,6,710.32,4261.92,Manaus,AM,Daniela
+190,2023-07-29,Tênis,Vestuário,4,202.73,810.92,Porto Alegre,RS,Bruno
+191,2023-12-04,Cadeira,Móveis,1,2274.96,2274.96,Manaus,AM,Fernanda
+192,2023-12-02,Camiseta,Vestuário,5,4716.44,23582.2,São Paulo,SP,Ana
+193,2023-05-08,Smartphone,Eletrônicos,7,2211.09,15477.63,São Paulo,SP,Fernanda
+194,2023-07-06,Smartphone,Eletrônicos,5,562.17,2810.85,Brasília,DF,Daniela
+195,2023-03-24,Tênis,Vestuário,10,2097.55,20975.5,São Paulo,SP,Daniela
+196,2023-04-05,Liquidificador,Eletrodomésticos,5,4808.4,24042.0,Salvador,BA,Ana
+197,2023-09-02,Cadeira,Móveis,4,553.35,2213.4,Curitiba,PR,Fernanda
+198,2023-10-04,Smartphone,Eletrônicos,1,3711.4,3711.4,Porto Alegre,RS,Bruno
+199,2023-11-28,Mesa,Móveis,10,383.49,3834.9,Manaus,AM,Fernanda
+200,2023-01-01,Caneta,Educação,7,4718.55,33029.85,Recife,PE,Ana
